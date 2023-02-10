@@ -1,4 +1,4 @@
-let jour = 'dimanche';
+let jour = 'Vendredi';
 if (jour === 'samedi' || jour === 'dimanche'){
   console.log('weekend')
 }
