@@ -2,7 +2,7 @@
 // Créer un objet personne avec des propriétés suivant : son nom Mariam et 30ans d'âge, et écrire une fonction qui affiche ces informations 
 let personne = {
   'nom' : 'Mariam',
-  'age' : '38',
+  'age' : '30',
 };
 function displayPersonInfo(){
   console.log(`Nom: ${personne.nom}`);
